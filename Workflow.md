@@ -3,14 +3,13 @@
 Workflow
 
     Data Collection (Web Scraping)
-        Responsibility: Person 1
+        Responsibility: Sahishnu Raut
         Task: Web scrape lyrics from Genius, focusing on Kendrick Lamar's songs. Use libraries like BeautifulSoup, Scrapy, or Selenium to automate the extraction of lyrics.
-            Tools: Python, BeautifulSoup/Scrapy, Requests, Genius API (optional).
-            Challenges: Dealing with CAPTCHAs, website restrictions, ensuring no duplicate data.
+            Tools: Python, BeautifulSoup/Scrapy, Requests, Genius API (optional)
             Expected Output: A CSV or JSON file containing song titles, lyrics, and metadata (e.g., album, release year).
 
     Data Preprocessing
-        Responsibility: Person 2
+        Responsibility: Ron Mathew Jobi
         Task: Clean the dataset to prepare it for analysis and model training.
             Steps:
                 Text Cleaning: Remove punctuation, special characters, and redundant words like stop words (e.g., “the,” “and,” “is”).

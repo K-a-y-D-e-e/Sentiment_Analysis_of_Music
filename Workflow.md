@@ -21,7 +21,7 @@ Workflow
             Expected Output: A clean, tokenized dataset ready for analysis or model training.
 
     Model Fine-tuning & Training
-        Responsibility: Person 3
+        Responsibility: Karmadeept Sarkar
         Task: Fine-tune a Large Language Model (LLM) to improve its understanding of lyrics and sentiment analysis.
             Steps:
                 Model Selection: Choose an LLM like GPT, BERT, or a music-specific model.
